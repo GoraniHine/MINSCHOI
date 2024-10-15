@@ -25,9 +25,7 @@
 - 선택한 메뉴나 입력한 명령에 대한 시각적 및 음성 피드백 제공
 
 #### 🎥 비디오 보기
-<a href="https://www.youtube.com/watch?v=s66GQ_fpOWM&t=1s" target="_blank">
-  <img src="https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg" alt="Watch the video" width="320" height="180">
-</a>
+[![Watch the video](https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg)](https://www.youtube.com/watch?v=s66GQ_fpOWM&t=1s)
 
 ### 2. **VoiceHub Mirror**
 VoiceHub Mirror는 음성인식 기반의 스마트 미러로, 사용자의 음성 명령을 통해 IoT시스템을 제공하는 시스템입니다.
