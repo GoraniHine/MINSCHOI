@@ -36,7 +36,7 @@ VoiceHub Mirror는 음성인식 기반의 스마트 미러로, 사용자의 음�
 - OpenCV를 통해 카메라를 제어하고 실시간 비디오 피드를 제공
 
 #### 🎥 비디오 보기
-[![Watch the video](https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg)](https://www.youtube.com/watch?v=BS0ugsEMuOo&t=10s)
+[![Watch the video](https://img.youtube.com/vi/BS0ugsEMuOo/0.jpg)](https://www.youtube.com/watch?v=BS0ugsEMuOo&t=10s)
 
 ### 3. **블루투스를 활용한 격투 로봇**
 블루투스 통신을 활용하여 원격으로 조종 가능한 격투 로봇 프로젝트입니다. 로봇 간의 싸움 및 동작 제어를 arduino를 통해 직접 할 수 있습니다.
@@ -46,7 +46,7 @@ VoiceHub Mirror는 음성인식 기반의 스마트 미러로, 사용자의 음�
 - 로봇 간의 물리적 충돌 및 격투 동작을 위한 충격 센서 및 DC 모터로 동작 구현
 
 #### 🎥 비디오 보기
-[![Watch the video](https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg)](https://www.youtube.com/watch?v=4enU3-0tMNY)
+[![Watch the video](https://img.youtube.com/vi/4enU3-0tMNY/0.jpg)](https://www.youtube.com/watch?v=4enU3-0tMNY)
 
 ## 🛠 사용 도구 및 기술
 
