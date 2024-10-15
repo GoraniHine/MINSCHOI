@@ -13,7 +13,7 @@
   - 하드웨어-소프트웨어 통합
 
 - 📫 **연락처**:
-  - 이메일: minchoi@example.com
+  - 이메일: chlalstlr561@daum.net
 
 ## 🚀 주요 프로젝트
 
