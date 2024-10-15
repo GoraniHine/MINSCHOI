@@ -23,7 +23,7 @@
 - Google Speech API를 통한 음성인식 시스템 구현
 - GUI(그래픽 사용자 인터페이스)로 메뉴 탐색 및 선택 가능
 - 선택한 메뉴나 입력한 명령에 대한 시각적 및 음성 피드백 제공
-- 
+
 #### 🎥 비디오 보기
 [![Watch the video](https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg)](https://www.youtube.com/watch?v=s66GQ_fpOWM&t=1s)
 
@@ -35,12 +35,18 @@ VoiceHub Mirror는 음성인식 기반의 스마트 미러로, 사용자의 음�
 - 음성 명령으로 다양한 센서를 제어하여 스마트 홈 환경 조성
 - OpenCV를 통해 카메라를 제어하고 실시간 비디오 피드를 제공
 
+#### 🎥 비디오 보기
+[![Watch the video](https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg)](https://www.youtube.com/watch?v=BS0ugsEMuOo&t=10s)
+
 ### 3. **블루투스를 활용한 격투 로봇**
 블루투스 통신을 활용하여 원격으로 조종 가능한 격투 로봇 프로젝트입니다. 로봇 간의 싸움 및 동작 제어를 arduino를 통해 직접 할 수 있습니다.
 
 - Arduino의 GPIO핀을 사용하여 DC Motor, 충격 센서, LED를 제어
 - 블루투스 모듈의 마스터-슬레이브 구조를 통해 로봇과 컨트롤러 간의 데이터 전송
 - 로봇 간의 물리적 충돌 및 격투 동작을 위한 충격 센서 및 DC 모터로 동작 구현
+
+#### 🎥 비디오 보기
+[![Watch the video](https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg)](https://www.youtube.com/watch?v=4enU3-0tMNY)
 
 ## 🛠 사용 도구 및 기술
 
