@@ -24,7 +24,7 @@
 - GUI(그래픽 사용자 인터페이스)로 메뉴 탐색 및 선택 가능
 - 선택한 메뉴나 입력한 명령에 대한 시각적 및 음성 피드백 제공
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s66GQ_fpOWM" frameborder="0" allowfullscreen></iframe>
 
 ### 2. **VoiceHub Mirror**
 VoiceHub Mirror는 음성인식 기반의 스마트 미러로, 사용자의 음성 명령을 통해 IoT시스템을 제공하는 시스템입니다.
