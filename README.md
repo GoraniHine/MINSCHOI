@@ -3,4 +3,4 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=CFFFE5&height=200&section=header&text=MINSCHOI&fontSize=90" />
 </div>
 
-# Embedded
+# Embedded Developer
