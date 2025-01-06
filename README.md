@@ -5,11 +5,11 @@
 # Embedded Developer
 
 ## 👋 소개
-안녕하세요! 저는 **MINSCHOI**입니다. 임베디드 시스템 개발을 전문으로 하며, 특히 C/C++, 마이크로컨트롤러를 사용한 개발에 열정을 가지고 있습니다. 하드웨어와 소프트웨어를 통합하여 스마트하고 효율적인 솔루션을 제공합니다.
+안녕하세요! 저는 **MINSCHOI**입니다. 임베디드 시스템 개발을 전문으로 하며, 특히 C/C++, 마이크로컨트롤러를 사용한 개발에 열정을 가지고 있습니다. 
 
 - 🔧 **기술 스택**:
   - 임베디드 C/Python
-  - 마이크로컨트롤러 프로그래밍 (stm32, Raspberry Pi, arduino)
+  - 마이크로컨트롤러 프로그래밍 (STM32, Raspberry Pi, Arduino)
   - 하드웨어-소프트웨어 통합
 
 - 📫 **연락처**:
@@ -50,6 +50,6 @@ VoiceHub Mirror는 음성인식 기반의 스마트 미러로, 사용자의 음�
 
 ## 🛠 사용 도구 및 기술
 
-- **IDE**: Visual Studio, Visual Studio Code
+- **IDE**: Visual Studio, Visual Studio Code, STM32Cube
 - **버전 관리**: Git
-- **하드웨어 플랫폼**: Raspberry Pi, Arduino
+- **하드웨어 플랫폼**: STM32, Raspberry Pi, Arduino
