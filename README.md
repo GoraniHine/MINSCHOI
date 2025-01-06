@@ -9,7 +9,7 @@
 
 - 🔧 **기술 스택**:
   - 임베디드 C/Python
-  - 마이크로컨트롤러 프로그래밍 (Raspberry Pi, arduino)
+  - 마이크로컨트롤러 프로그래밍 (stm32, Raspberry Pi, arduino)
   - 하드웨어-소프트웨어 통합
 
 - 📫 **연락처**:
