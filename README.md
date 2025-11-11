@@ -44,11 +44,13 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
   <br/>
   스마트 헬스 밴드의 회로도
 </p>
+  
 <p style="text-align:left;">
   <img src="Pictures/Band1.jpg" width="280" style="margin-right:10px;"/>
   <img src="Pictures/Band2.jpg" width="280"/>
+  <br/>
+  MAX30102 센서를 통해 심박수 측정 후, 앱을 통해 스마트폰으로 데이터 수신 및 시각화
 </p>
-MAX30102센서를 통해 심박수 측정 후 앱을 통해 스마트폰으로 데이터 수신 및 시각화  
 
 ### 2. 통신을 활용한 조도 기반 조명 제어 시스템
 이 프로젝트는 주변 조도를 측정하여 자동으로 조명을 제어하는 스마트 조명 시스템입니다.
