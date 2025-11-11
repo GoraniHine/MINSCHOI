@@ -13,8 +13,8 @@ STM32, Raspberry Pi, Arduino 등 다양한 하드웨어 플랫폼에서
 
 - 🔧 **기술 스택**:
   - **프로그래밍 언어:** C / C++ / Python
-  - **MCU 제어 / 펌웨어:** STM32, Arduino
-  - **마이크로프로세서 / 싱글보드 컴퓨터:** Raspberry Pi (Linux 기반)
+  - **MCU/펌웨어:** STM32, Arduino
+  - **싱글보드 컴퓨터:** Raspberry Pi (Linux)
   - **통신 프로토콜:** I2C, SPI, UART, TCP/IP, Wi-Fi, Bluetooth
   - **기능 개발:** 센서 데이터 처리 및 IoT 시스템 구축
 
@@ -51,6 +51,11 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
   <br/>
   MAX30102 센서를 통해 심박수 측정 후, 앱을 통해 스마트폰으로 데이터 수신 및 시각화
 </p>
+
+<figure style="display:inline-block; text-align:center; margin-right:10px;">
+  <img src="Pictures/Band1.jpg" width="280"/>
+  <figcaption>센서를 통한 심박수 측정</figcaption>
+</figure>
 
 ### 2. 통신을 활용한 조도 기반 조명 제어 시스템
 이 프로젝트는 주변 조도를 측정하여 자동으로 조명을 제어하는 스마트 조명 시스템입니다.
