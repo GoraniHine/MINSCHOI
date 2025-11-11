@@ -40,11 +40,11 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
 
 ### 📸 프로젝트 사진
 <p align="center">
-  <img src="images/Band회로도.png" width="600"/>
+  <img src="Pictures/Band회로도.png" width="600"/>
 </p>
 <p align="center">
-  <img src="images/Band1" width="280" style="margin-right:10px;"/>
-  <img src="Band2" width="280"/>
+  <img src="Pictures/Band1" width="280" style="margin-right:10px;"/>
+  <img src="Pictures/Band2" width="280"/>
 </p>
 ### 2. 통신을 활용한 조도 기반 조명 제어 시스템
 이 프로젝트는 주변 조도를 측정하여 자동으로 조명을 제어하는 스마트 조명 시스템입니다.
