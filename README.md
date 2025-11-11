@@ -65,7 +65,8 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
 - MCU: STM32
 - 센서: BH1750 (조도 센서)
 - 표시 장치: MAX7219 (도트 매트릭스)
-- 
+  
+### 📸 프로젝트 사진
 <p style="text-align:left;">
   <img src="Pictures/Light회로도.png" width="600"/>
   <br/>
