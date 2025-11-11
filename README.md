@@ -42,7 +42,6 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
 <p style="text-align:left;">
   <img src="Pictures/Band회로도.png" width="600"/>
   <br/>
-  
   스마트 헬스 밴드의 회로도
 </p>
   
@@ -50,7 +49,6 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
   <img src="Pictures/Band1.jpg" width="280" style="margin-right:10px;"/>
   <img src="Pictures/Band2.jpg" width="280"/>
   <br/>
-  
   MAX30102 센서를 통해 심박수 측정 후, 앱을 통해 스마트폰으로 데이터 수신 및 시각화
 </p>
 
@@ -72,7 +70,6 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
 <p style="text-align:left;">
   <img src="Pictures/Light회로도.png" width="600"/>
   <br/>
-  
   조명 제어 시스템의 회로도
 </p>
   
@@ -80,7 +77,6 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
   <img src="Pictures/Light1.png" width="280" style="margin-right:10px;"/>
   <img src="Pictures/Light2.png" width="280"/>
   <br/>
-  
   밝은 환경과 어두운 환경에서 조도 측정 및 LED 시각화
 </p>
 
