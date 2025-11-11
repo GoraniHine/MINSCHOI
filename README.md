@@ -39,10 +39,11 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
 - 통신 방식: TCP/IP
 
 ### 📸 프로젝트 사진
-<p align="center">
+<p style="text-align:left;">
   <img src="Pictures/Band회로도.png" width="600"/>
 </p>
-<p align="center">
+
+<p style="text-align:left;">
   <img src="Pictures/Band1.jpg" width="280" style="margin-right:10px;"/>
   <img src="Pictures/Band2.jpg" width="280"/>
 </p>
