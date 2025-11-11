@@ -3,17 +3,6 @@
 </div>
 
 # Embedded Developer
-
-## 👋 소개
-안녕하세요. 저는 **MINSCHOI**입니다. 임베디드 시스템 개발을 전문으로 하며, 특히 C/C++, 마이크로컨트롤러를 사용한 개발에 열정을 가지고 있습니다. 
-
-- 🔧 **기술 스택**:
-  - 임베디드 C/Python
-  - 마이크로컨트롤러 프로그래밍 (STM32, Raspberry Pi, Arduino)
-  - 하드웨어-소프트웨어 통합
-
-- 📫 **연락처**:
-  - 이메일: chlalstlr561@daum.net
     
 ## 👋 소개
 안녕하세요. 저는 **MINSCHOI**입니다.  
