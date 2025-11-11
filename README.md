@@ -65,6 +65,19 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
 - MCU: STM32
 - 센서: BH1750 (조도 센서)
 - 표시 장치: MAX7219 (도트 매트릭스)
+- 
+<p style="text-align:left;">
+  <img src="Pictures/Light회로도.png" width="600"/>
+  <br/>
+  조명 제어 시스템의 회로도
+</p>
+  
+<p style="text-align:left;">
+  <img src="Pictures/Light1.png" width="280" style="margin-right:10px;"/>
+  <img src="Pictures/Light2.png" width="280"/>
+  <br/>
+  밝은 환경(좌) 어두운 환경(우)에서의 조도 측정 및 LED 시각화
+</p>
 
 ### 3. 비정상 환경 감지를 위한 온·습도 모니터링 시스템
 이 시스템은 고온(35℃ 이상) 또는 고습(60% 이상) 환경에서 발생할 수 있는 위험 요소를 사전에 감지하기 위해 개발된 실시간 온·습도 모니터링 시스템입니다.
