@@ -77,7 +77,7 @@ ESP8266 Wi-Fi 모듈을 이용해 스마트폰과 TCP/IP 통신으로 데이터�
   <img src="Pictures/Light1.png" width="280" style="margin-right:10px;"/>
   <img src="Pictures/Light2.png" width="280"/>
   <br/>
-  밝은 환경(좌) 어두운 환경(우)에서의 조도 측정 및 LED 시각화
+  밝은 환경과 어두운 환경에서 조도 측정 및 LED 시각화
 </p>
 
 ### 3. 비정상 환경 감지를 위한 온·습도 모니터링 시스템
